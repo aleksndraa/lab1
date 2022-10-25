@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://aleksndraa.github.io/lab1/sitemap.xml
